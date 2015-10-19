@@ -13,7 +13,6 @@ public class TestRunner {
 
     public static void main(String[] args) throws Exception {
 
-        test("Fibonacci", new FibonaccciBasic());
         test("Fibonacci with cache and synchronized method", new FibonacciCache1());
         test("Fibonacci with cache and synchronized block", new FibonacciCache2());
     }
