@@ -1,4 +1,4 @@
-# CostOfSynchronization
+# Cost Of Synchronization
 
 HOW EXPENSIVE IS SYNCHRONIZATION?
 
